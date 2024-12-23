@@ -1,0 +1,8 @@
+<resources>
+    <!-- Define custom button bar style -->
+    <style name="Widget.PieceItPC.ButtonBar" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@color/green</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="android:padding">8dp</item>
+    </style>
+</resources>
